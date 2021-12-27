@@ -1,5 +1,5 @@
 # worldometer-covid-scraper
-Scrapes total covid cases of each country from worldometer.info
+Scrapes total covid cases of each country from worldometers.info
 
 ## Instructions
 This is a python script when run logs out Country Name, Total Covid Cases and Link to worldometer website for that specific country (in the terminal).
